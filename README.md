@@ -32,4 +32,4 @@ Feel free to reach out if you have any questions or suggestions!
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/sinha001/JavaScript-Journey.git
+   git clone https://github.com/sinha001/RockPaperScissors-MiniProject.git
