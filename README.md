@@ -29,7 +29,7 @@ A simple, interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
    ```
 2. **Navigate to the project folder**:
     ```bash
-    cd RockPaperScissors-MiniProject
+    cd Rock Paper Scissors
    ```
 3. **Open the `@index.html` files in your browser**:    
    ```bash
